@@ -1,7 +1,4 @@
 /*
-* File Name: EmployeeTraining
-* Author: Yaser Tirsen
-* Student Number: D18125793
 * Description of class: This class creates empty nodes that store the position of the element and the position of the next element.
 */
 
