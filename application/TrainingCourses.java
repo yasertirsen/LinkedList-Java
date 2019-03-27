@@ -1,7 +1,4 @@
 /*
-* File name : EmployeeTraining 
-* Author : Yaser Tirsen 
-* Student number : D18125793
 * Description of class: This class is used to input and display various info about the training courses.
 * It is the driver class for Employee class.
 */
