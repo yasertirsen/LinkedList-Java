@@ -1,12 +1,3 @@
-/*
-* File Name: EmployeeTraining
-* Author: Yaser Tirsen
-* Student Number: D18125793
-* Description of class: This class defines an employee and has two constructors & getters and setters for each instance
-* variable.
-* It also has a polymorphic method of equals to compare two employees
-*/
-
 package application;
 import java.util.Scanner;
 
