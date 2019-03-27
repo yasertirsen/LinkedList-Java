@@ -1,7 +1,4 @@
 /*
-* File name : EmployeeTraining 
-* Author : Yaser Tirsen 
-* Student number : D18125793
 * Description of class: This class is the Abstract Data Type definition for the Linked List.
 */
 
