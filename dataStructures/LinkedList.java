@@ -1,7 +1,4 @@
 /*
-* File name : EmployeeTraining 
-* Author : Yaser Tirsen 
-* Student number : D18125793
 * Description of class: This class is the data structure used to store the employee objects.
 */
 package dataStructures;
